@@ -1,2 +1,3 @@
-# data-structures
-Some data structures studies writen in C
+# Data-structures
+
+### Some data structures and algorithms studies writen in C
